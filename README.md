@@ -19,7 +19,8 @@ Este projeto implementa um classificador de dígitos manuscritos usando Redes Ne
 
 Abra o terminal e execute os comandos abaixo para clonar o repositório e acessar a pasta:
 
-bash
+bash:
+
 git clone https://github.com/FALima8/Classificacao_digitos.git
 cd Classificacao_digitos
 
