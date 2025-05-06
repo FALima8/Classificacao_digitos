@@ -23,6 +23,8 @@ bash
 git clone https://github.com/FALima8/Classificacao_digitos.git
 cd Classificacao_digitos
 
+---
+
 ### 🧰 Bibliotecas Utilizadas
 TensorFlow / Keras
 
